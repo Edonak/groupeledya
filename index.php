@@ -6,7 +6,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>AUX ENVIRONS FITNESS</title>
+    <title>GROUPE LEDYA</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="style.css">
   </head>
@@ -76,10 +76,10 @@ Swal.fire({
           </div>
           <div class="form-group">
             <label for="password"><i class="fas fa-lock"></i>Mot de passe :</label>
-            <input type="password" id="password" name="mdp" placeholder="####################" required>
+            <input type="password" id="password" name="mdp" placeholder="" required>
           </div>
           <div class="form-group">
-            <button type="submit" name="valide"><i class="fas fa-sign-in-alt"></i>Se connecter</button>
+            <button type="submit" name="valide">Se connecter</button>
           </div>
         </form>
       </div>

@@ -530,12 +530,7 @@ if ($service=='DG'or $service=='Reception_AEV' ) { ?>
 
 							<?php }
 
- ?>
-
-							
-
-
-							
+ ?>	
 						</ul>
 					</li>
 <?php }
